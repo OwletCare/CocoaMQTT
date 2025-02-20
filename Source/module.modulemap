@@ -1,0 +1,7 @@
+module CocoaMQTT [system] {
+    umbrella header "SupportingFiles/CocoaMQTT.h"
+
+    export *
+    module * { export * }
+}
+
